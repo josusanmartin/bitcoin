@@ -1,3 +1,10 @@
+"Los mineros bailan al son que les toquen.
+
+Los músicos son los que controlan el código."
+
+Marco Montero
+
+
 Bitcoin Core integration/staging tree
 =====================================
 
